@@ -75,3 +75,18 @@ img {
     color: grey;
     display: inline;
 }
+
+.divheader {
+    
+    border-bottom: solid;
+    border-bottom-color: gray;
+}
+
+.divside {
+    border-right: thick dotted;
+    
+}
+
+.gbig {
+    font-size: 18px;
+}
