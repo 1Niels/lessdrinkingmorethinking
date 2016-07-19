@@ -90,3 +90,61 @@ img {
 .gbig {
     font-size: 18px;
 }
+
+.healthtri {
+    height: 600px;
+    width: 600px;
+     display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.physical {
+      position: absolute;
+
+    
+}
+
+.social {
+    
+    float: right;
+}
+
+.top-tri {
+    display: inline-block;
+}
+
+.phys-div {
+       position: absolute;
+    left: 18.750em;
+    top: 19.750em;
+ 
+height: 6.250em;
+width: 18.750em;
+}
+
+.social-div {
+       position: absolute;
+    right: 18.750em;
+    top: 19.750em;
+ 
+height: 6.250em;
+width: 18.750em;
+}
+
+.trimental {
+     position: absolute;
+    right: 48%;
+    top: 62.750em;
+
+}
+
+.mentaltri {
+     position: absolute;
+    right: 18.750em;
+    top: 66.750em;
+ 
+height: 6.250em;
+width: 100.750em;
+    
+}
