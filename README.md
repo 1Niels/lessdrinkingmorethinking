@@ -1,5 +1,5 @@
 # Less Drinking, More Thinking
-This website served as my final presentation for health class to discuss the risk and adverse side effects of alcohol consumption. To view the website visit [www.lessdrinkingmorethinking.com](http://lessdrinkingmorethinking.com)
+This website served as my final presentation for health class to discuss the risk and adverse side effects of alcohol consumption on personal health. Alcohol does not only damage physical health, but also mental and social health especially in teenagers. Please understand the health risks by visiting [www.lessdrinkingmorethinking.com](http://lessdrinkingmorethinking.com).
 
 ## Important facts to know - (Facts for USA)
 - **17.6 million** people suffer from alcohol abuse or dependence. 
