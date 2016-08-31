@@ -2,14 +2,21 @@
 This website served as my final presentation for health class to discuss the risk and adverse side effects of alcohol consumption. To view the website visit [www.lessdrinkingmorethinking.com](http://lessdrinkingmorethinking.com)
 
 ## Important facts to know - (Facts for USA)
-- 17.6 million people suffer from alcohol abuse or dependence. 
-- 88,000 deaths are annually attributed to excessive alcohol use.
-- 1,400 college student deaths are linked to alcohol consumption. 
-- 27 people a day are killed in a drunk driving car crash. 
-- 48% of 12th graders drank an alcoholic beverage in the past 30 days. 
-- $1 billion were spent by the alcohol industry for tv, radio, print, and outdoor advertisements in 1997.
-- 1/3 suicides are associated with alcohol misuse.
-- 40 to 70% of participants in treatment for alcoholism recovered after 6 months.
+- **17.6 million** people suffer from alcohol abuse or dependence. 
+
+- **88,000 deaths** are annually attributed to excessive alcohol use.
+
+- **1,400 college** student deaths are linked to alcohol consumption. 
+
+- **27 people a day** are killed in a drunk driving car crash. 
+
+- **48% of 12th graders** drank an alcoholic beverage in the past 30 days. 
+
+- **$1 billion** were spent by the alcohol industry for tv, radio, print, and outdoor advertisements in 1997.
+
+- **1/3 suicides** are associated with alcohol misuse.
+
+- **40 to 70% of participants in treatment for alcoholism recovered after 6 months.**
 
 ## Bibliography
 "champagne". _Encyclopædia
