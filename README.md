@@ -18,6 +18,11 @@ This website served as my final presentation for health class to discuss the ris
 
 - **40 to 70% of participants in treatment for alcoholism recovered after 6 months.**
 
+## Contributing
+- Contributions of all forms are greatly appreciated, especially possible spelling errors in verbs
+- To contribute fork the repositoray and make a pull request with your contribution
+- Thank you.
+
 ## Bibliography
 "champagne". _Encyclopædia
 Britannica. Encyclopædia Britannica Online._
